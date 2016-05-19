@@ -12,7 +12,7 @@
 #import "LNNotificationCenter.h"
 
 static const NSTimeInterval LNNotificationAnimationDuration = 0.5;
-static const NSTimeInterval LNNotificationFullDuration = 4.0;
+static const NSTimeInterval LNNotificationFullDuration = 3.0;
 static const NSTimeInterval LNNotificationCutOffDuration = 1.5;
 
 static const CGFloat LNNotificationViewHeight = 68.0;
